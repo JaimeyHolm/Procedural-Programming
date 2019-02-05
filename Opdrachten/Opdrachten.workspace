@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Opdrachten" Database="" Version="10.0.0">
+  <Project Name="Week_1_Opdracht_1" Path="Week_1_Opdracht_1/Week_1_Opdracht_1.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_2" Path="Week_1_Opdracht_2/Week_1_Opdracht_2.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_3" Path="Week_1_Opdracht_3/Week_1_Opdracht_3.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_4" Path="Week_1_Opdracht_4/Week_1_Opdracht_4.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_5" Path="Week_1_Opdracht_5/Week_1_Opdracht_5.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_6" Path="Week_1_Opdracht_6/Week_1_Opdracht_6.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_7" Path="Week_1_Opdracht_7/Week_1_Opdracht_7.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_8" Path="Week_1_Opdracht_8/Week_1_Opdracht_8.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_9" Path="Week_1_Opdracht_9/Week_1_Opdracht_9.project" Active="Yes"/>
+  <Project Name="Week_1_Opdracht_10" Path="Week_1_Opdracht_10/Week_1_Opdracht_10.project" Active="No"/>
+  <Project Name="Week_1_Opdracht_11" Path="Week_1_Opdracht_11/Week_1_Opdracht_11.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Week_1_Opdracht_1" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_2" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_3" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_4" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_5" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_6" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_7" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_8" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_9" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_10" ConfigName="Debug"/>
+      <Project Name="Week_1_Opdracht_11" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Week_1_Opdracht_1" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_2" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_3" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_4" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_5" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_6" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_7" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_8" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_9" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_10" ConfigName="Release"/>
+      <Project Name="Week_1_Opdracht_11" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
