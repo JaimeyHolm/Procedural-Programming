@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 
@@ -9,8 +8,9 @@ int main(){
 	int grootte;
 	cin >> grootte;
 	for (int i = 0; i<grootte; i++){
-		cout << string((grootte),'*') << "\n" <<
-		"\n";
+		for (int i = 0; i < grootte; i++){
+			cout << "*";
+		}
+	cout << "\n";
 	}
-
 	}
