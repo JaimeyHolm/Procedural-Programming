@@ -20,17 +20,17 @@ int main(){
 			cout << "*";
 		}
 		cout << "\n";
+		}
 		
-	}
-	for(int i = grootte-1; i >= 1; i--){
+		for(int i = grootte-1; i >= 1; i--){
 		
 		for (int spaties = 1; spaties <= grootte-i; spaties++){
 			cout << " ";
 		}
 		
-        for(int j = 1; j <= i; j++){
-            cout << "*";
-        }
+        	for(int j = 1; j <= i; j++){
+           	 cout << "*";
+        	}
 		cout << "\n";
-	}
+		}
 }
