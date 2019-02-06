@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 
@@ -7,12 +6,13 @@ int main(){
 
 	cout << "Hoe groot? ";
 	int grootte;
-	int a = 1;
 	cin >> grootte;
-	while (a <= grootte){
-		cout << string((a),'*') << "\n" <<
-		"\n";
-		a += 1;
+	for (int i = 1; i<=grootte; i++){
+		
+		for (int j = 1; j <= i; j++){
+			cout << "*";
+		}
+		
+		cout << "\n";
 	}
-
-	}
+}
