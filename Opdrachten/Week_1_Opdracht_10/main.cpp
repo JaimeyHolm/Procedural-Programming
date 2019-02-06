@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 using namespace std;
 
 
@@ -7,17 +6,45 @@ int main(){
 
 	cout << "Hoe groot? ";
 	int grootte;
-	int a = 1;
 	cin >> grootte;
+	
 	for (int i = 1; i<=grootte; i++){
-		cout << string((a),'*') << "\n" <<
-		"\n";
-		a += 1;
+		
+		for (int j = 1; j <= i; j++){
+			cout << "*";
+		}
+		
+		cout << "\n";
+		
 	}
-	for (int i = 1; i>=0; i++){
-		cout << string((a),'*') << "\n" <<
-		"\n";
-		a -= 1;
+	for(int i = grootte-1; i >= 1; i--){
+		
+        for(int j = 1; j <= i; j++){
+            cout << "*";
+        }
+		cout << "\n";
 	}
-
-	}
+	
+//	int i = 1;
+//	while (i != grootte + 1) {
+//		int j = i;
+//		while (j != 0) {
+//			cout << "*";
+//			j--;
+//		}
+//		cout << "\n";
+//		i++;
+//	}
+//	
+//	i = grootte - 1;
+//	while (i != 0) {
+//		int j = i;
+//		while (j != 0) {
+//			cout << "*";
+//			j--;
+//		}
+//		cout << "\n";
+//		i--;
+//	}
+	
+}
